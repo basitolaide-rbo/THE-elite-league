@@ -1,0 +1,15 @@
+{
+  "name": "Elite Premier League 2026",
+  "short_name": "Elite Premier",
+  "description": "Fixtures, results, table, squads and player registration.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12031c",
+  "theme_color": "#1a0526",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
